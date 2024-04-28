@@ -1,8 +1,10 @@
 # CS-205-Journal
 
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+DriverPass is a driving school that would like to revolutionize the Driving exam pass rate. Their goal is to have a system built where users can sign up and review and purchase packages, take courses online, and become ready for DMV exams.
 
 # What did you do particularly well?
+
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
